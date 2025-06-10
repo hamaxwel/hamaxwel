@@ -18,6 +18,16 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Check generated files
+        run: ls -l dist
+
+      - name: Ensure SVG was generated
+        run: |
+          if [ ! -f dist/github-snake.svg ]; then
+            echo "SVG not generated!"
+            exit 1
+          fi
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
