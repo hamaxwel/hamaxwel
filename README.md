@@ -1,6 +1,6 @@
 <!-- 
 
-# 💫 About Me:
+## 💫 About Me:
 I'm currently working on: Developing scalable backend services for a new CSaaS platform, focusing on performance optimization and API integration.<br>I'm looking to collaborate on: Open-source projects related to cloud infrastructure or contribute to innovative AI/ML applications.<br>I'm looking for help with: Advanced strategies for distributed system monitoring and enhancing cybersecurity protocols in microservices architectures.<br>I'm currently learning: Rust programming language and exploring best practices in serverless computing with AWS Lambda.<br>Ask me about: Agile methodologies, clean code principles, or effective strategies for technical team leadership.<br>Fun fact: I once debugged a critical system error by tracing a single misplaced semicolon across 50,000 lines of code and still made it to the stand-up on time.
 
 ## 🌐 Socials:
@@ -13,9 +13,9 @@ I'm currently working on: Developing scalable backend services for a new CSaaS p
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-#<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamaxwel/hamaxwel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamaxwel/hamaxwel/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/hamaxwel/hamaxwel/output/github-snake.svg" />
 </picture>
--->
+
